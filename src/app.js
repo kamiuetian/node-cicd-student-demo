@@ -1,4 +1,4 @@
-const message = 'Hello from a broken build';
+const message = 'Hello from Jenkins student lab version 2';
 
 function renderPage(build = 'local') {
   return `<!doctype html>
